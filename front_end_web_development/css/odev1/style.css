@@ -1,0 +1,74 @@
+h1 {
+  font-size: 40px;
+}
+p,
+nav {
+  font-family: 'Basic', sans-serif;
+}
+a {
+  padding: 0 15px;
+}
+h2 {
+  color: rgb(145, 23, 23);
+  font-family: 'Ephesis', cursive;}
+.logo {
+  padding-top: 20px;
+}
+body {
+  margin: 0;
+  text-align: center;
+  padding: 0;
+}
+header {
+  background-color: rgb(177, 130, 30);
+  margin-left: auto;
+  margin-right: auto;
+}
+footer {
+  background-color: rgb(177, 130, 30);
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+}
+
+nav {
+  padding: 10px;
+  font-size: 17px;
+}
+.nav-text {
+  justify-content: space-between;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+.title {
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 13px;
+  color: rgb(3, 94, 129);
+}
+.title2 {
+  font-size: 30px;
+  padding-top: 10px;
+  color: rgb(240, 240, 240);
+}
+.foods-bigcontainer {
+  width: 100%;
+  margin-bottom: 50px;
+  display: grid;
+}
+.foods-container {
+  display: flex;
+  margin: 0 auto;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+}
+.food {
+  /* margin-left: auto;
+  margin-right: auto; */  
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
